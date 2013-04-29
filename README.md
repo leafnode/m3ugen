@@ -7,7 +7,7 @@ eyeD3 and pyvorbis libs to read music length.
 Usage
 -----
 
-''python m3ugen.py <dir1> <dir2> ... <dirn>''
+    python m3ugen.py <dir1> <dir2> ... <dirn>
    
 Requirements
 ------------
