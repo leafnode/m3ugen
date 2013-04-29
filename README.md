@@ -1,18 +1,22 @@
-= m3ugen =
+m3ugen
+======
 
 Create a m3u playlist with all files (ogg, mp3, mpc) in given directory. Uses
 eyeD3 and pyvorbis libs to read music length.
 
-== Usage ==
+Usage
+-----
 
 ''python m3ugen.py <dir1> <dir2> ... <dirn>''
    
-== Requirements ==
+Requirements
+------------
 
 - eyeD3
 - pyvorbis
 
-== TODO ==
+TODO
+----
 
 - sort options (filename w/wo dir, tags)
 - file output
